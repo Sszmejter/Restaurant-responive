@@ -1,2 +1,2 @@
 DEMO:
-https://sszmejter.github.io/Restaurant-responive/
+https://sszmejter.github.io/Restaurant-responsive/
